@@ -1,0 +1,42 @@
+body {
+    background-color: aqua;
+    
+}
+.topbar{
+    background-color: white;
+    height: 50px;
+    width: 100%;
+}
+form {
+    background-color: white;
+    border: solid 1px grey;
+    width: 177px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 25px
+    
+}
+.inputs{
+padding: 1px;
+}
+.buttop {
+    background-color: aqua;
+    float:right
+    
+}
+
+.but1{
+    background-color: aqua;
+    width: 177px;
+}
+h1{
+    margin: 1%;
+    text-align: center;
+}
+}
+.center {
+    margin: auto;
+    width: 60%;
+    border: 5px solid #FFFF00;
+    padding: 10px;
+}
